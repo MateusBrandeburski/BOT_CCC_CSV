@@ -131,6 +131,6 @@ dmypy.json
 # este projeto
 **/bot-que-le-csv
 bot-que-le-csv/
-csv_test
-acervo_csv
-bot_textes
+csv_test.py
+acervo_csv.py
+bot_textes.py
