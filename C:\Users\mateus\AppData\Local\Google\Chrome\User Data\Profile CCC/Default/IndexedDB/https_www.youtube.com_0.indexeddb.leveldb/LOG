@@ -1,0 +1,6 @@
+2023/01/11-10:29:36.628 50c0 Creating DB /home/mateus/Projetos/BOT_CSV/C:\Users\mateus\AppData\Local\Google\Chrome\User Data\Profile CCC/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/11-10:29:37.651 50c0 Reusing MANIFEST /home/mateus/Projetos/BOT_CSV/C:\Users\mateus\AppData\Local\Google\Chrome\User Data\Profile CCC/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/11-10:29:41.236 50db Level-0 table #5: started
+2023/01/11-10:29:41.612 50db Level-0 table #5: 2644 bytes OK
+2023/01/11-10:29:42.125 50db Delete type=0 #3
+2023/01/11-10:29:42.126 50db Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
