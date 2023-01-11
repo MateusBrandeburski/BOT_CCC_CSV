@@ -133,6 +133,6 @@ dmypy.json
 bot-que-le-csv/
 *.csv_test.py
 *.cacervo_csv.py
-*.cbot_textes.py
+.cbot_textes
 **/C:\Users\mateus\AppData\Local\Google\Chrome\User Data\Profile CCC
 C:\Users\mateus\AppData\Local\Google\Chrome\User Data\Profile CCC
