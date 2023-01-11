@@ -131,6 +131,7 @@ dmypy.json
 # este projeto
 **/bot-que-le-csv
 bot-que-le-csv/
-csv_test.py
-acervo_csv.py
-bot_textes.py
+*.csv_test.py
+*.cacervo_csv.py
+*.cbot_textes.py
+**/C:\Users\mateus\AppData\Local\Google\Chrome\User Data\Profile CCC
